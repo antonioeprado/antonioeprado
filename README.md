@@ -1,26 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif" width="100" height="100">
-  <div id="social-badges">
-    <a href="https://www.linkedin.com/in/dev-antonioprado/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" >
-    </a>
-  </div>
-  <div id="view-count">
-    <img src="https://komarev.com/ghpvc/?username=antonioeprado&style=flat-square&color=green" alt=""/>
-  </div>
-</div>
-
-
-<div align="center">
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  <img src="https://media.giphy.com/media/qPa9vUYCUrx6w/giphy.gif" height="150" width="400">
-</div>
-
----
-
 ### 👨‍💻 About me:
 
 I'm a full stack developer from 🇧🇷 Brazil.
