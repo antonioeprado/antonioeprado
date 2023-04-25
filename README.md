@@ -4,7 +4,6 @@ I'm a full stack developer from 🇧🇷 Brazil.
 - 🔭 I'm currently looking for a job and contributing to frontend and backend for web applications.
 - 📓 Exploring some Kotlin and Java for 📱 Mobile development.
 - ⚡ In my free time, I like to read, watch movies and 🎮 play some games.
-- How to reach me? [![Linkedin Badge](https://img.shields.io/badge/-antonioeprado-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dev-antonioprado/)
 
 ---
 
