@@ -24,9 +24,3 @@ I'm a full stack developer from 🇧🇷 Brazil.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60" height="60">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="60">  
 </div>
-
-### 🔥 My statistics:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antonioeprado&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioeprado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
